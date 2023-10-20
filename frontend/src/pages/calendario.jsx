@@ -5,8 +5,8 @@ import Carta from '../components/carta'
 import '../stylesheets/calendario.scss'
 
 const contenidoCalendario=(
-    <div>
-        INSERTE CALENDARIO JEJ
+    <div className='contenidoCalendario'> 
+        <img src='https://i.ibb.co/5nR42gp/calendario-octubre-2023.jpg'></img>
     </div>
 );
 

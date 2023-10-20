@@ -8,7 +8,7 @@ const contenidoCalificacion=(
     <div className='contcalificacion'> 
         <table border="1">
   <tr>
-    <th>Evaluacion</th>
+    <th>Evaluación</th>
     <th class="center-text">Nota</th>
     <th class="center-text">Porcentaje</th>
     <th class="center-text">Nota Final</th>
