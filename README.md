@@ -9,5 +9,5 @@ Nombres:
 Link video: https://youtu.be/pDluFzeGRiE
   -
 Instrucciones:
-  - 
+  - Se ocupa el comnando "npm run dev" para poder ejecutar la aplicación en un navegador web
   
