@@ -6,6 +6,8 @@ Nombres:
   - José González 202073587-5
   - Simón Reyes 201873603-1
 
+Link video:
+  -
 Instrucciones:
   - 
   
