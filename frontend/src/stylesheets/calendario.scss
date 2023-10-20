@@ -2,3 +2,14 @@
     height: auto;
     width: 60%;
     }
+
+.contenidoCalendario {
+    display: flex;
+    justify-content: center;
+}
+
+.contenidoCalendario a{
+    text-decoration: none;
+    font-size: 2.9rem;
+    color: rgb(2, 175, 207);
+}

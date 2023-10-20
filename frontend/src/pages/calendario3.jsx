@@ -5,7 +5,8 @@ import Carta from '../components/carta'
 import '../stylesheets/calendario.scss'
 
 const contenidoCalendario=(
-    <div className='contenidoCalendario'> 
+    <div className='contenidoCalendario'>
+        <a href='/calendario'>&lt;</a>
         <img src='https://i.ibb.co/ZLnF9Np/calendario-noviembre-2023.jpg'></img>
     </div>
 );

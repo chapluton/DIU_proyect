@@ -7,6 +7,7 @@ import '../stylesheets/calendario.scss'
 const contenidoCalendario=(
     <div className='contenidoCalendario'> 
         <img src='https://i.ibb.co/cTW9qWP/calendario-septiembre-2023.jpg'></img>
+        <a href='/calendario'>&gt;</a>
     </div>
 );
 

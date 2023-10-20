@@ -19,8 +19,8 @@ const AppRouter = () => {
         <Route path='/ramo2' element={<Ramo2 />} />
         <Route path='/calificacion' element={<Calificacion />} />
         <Route path='/calendario' element={<Calendario />} />
-        <Route path='/calendario' element={<Calendario2 />} />
-        <Route path='/calendario' element={<Calendario3 />} />
+        <Route path='/calendario2' element={<Calendario2 />} />
+        <Route path='/calendario3' element={<Calendario3 />} />
         <Route path='/horario' element={<Horario />} />
       </Routes>
     </BrowserRouter>
