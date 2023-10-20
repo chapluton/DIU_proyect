@@ -16,8 +16,8 @@ export const Carta = (props) => {
       </div>
       <div className='contenido'>
         <div className="navbar">
-          <NavLink to="/ramo1" className="nav-item" activeClassName="active">Informacion General</NavLink>
-          <NavLink to="/calificacion" className="nav-item" activeClassName="active">Calificacion</NavLink>
+          <NavLink to="/ramo1" className="nav-item" activeClassName="active">Información General</NavLink>
+          <NavLink to="/calificacion" className="nav-item" activeClassName="active">Calificación</NavLink>
           <NavLink to="/calendario" className="nav-item" activeClassName="active">Calendario</NavLink>
           <NavLink to="/horario" className="nav-item" activeClassName="active">Horario</NavLink>
         </div>
